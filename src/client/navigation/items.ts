@@ -77,8 +77,11 @@ const aiNavItem = linkOptions({
 
 // Always-visible sidebar group (not project-scoped, unlike the groups below).
 export const connectNavGroup = {
-  label: "Connect",
-  items: [aiNavItem],
+  label: "Agency",
+  items: [
+    linkOptions({ to: "/clients", label: "Client hub", icon: LayoutDashboard }),
+    aiNavItem,
+  ],
 };
 
 function getProjectNavItems(projectId: string) {

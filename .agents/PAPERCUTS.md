@@ -23,6 +23,8 @@ data, or sensitive paths.
 
 ## Resolved
 
+- [x] `2026-09-07T10:02:22Z` — `codex` — The Alchemy package script used POSIX environment assignment, which Windows command shells cannot execute. Resolved 2026-09-07 by launching the pinned CLI with Node and passing the strip-types flag directly; also corrected the self-host template's stale documentation link.
+
 Move fixed entries here, mark them checked, and append the resolving date or commit.
 
 ## badseo harness vs `wrangler dev`: sitemap emits badseo.dev locs locally
