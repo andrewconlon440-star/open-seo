@@ -41,7 +41,9 @@ const server = createServer(async (request, response) => {
     "Content-Security-Policy":
       "default-src 'none'; style-src 'unsafe-inline'; form-action 'self'; frame-ancestors 'none'; base-uri 'none'",
     "X-Content-Type-Options": "nosniff",
-    "Referrer-Policy": "no-referrer",
+    // Native form POSTs need their same-origin Origin header for the CSRF check.
+    // no-referrer makes browsers send an opaque/null origin on this navigation.
+    "Referrer-Policy": "same-origin",
   };
   const reply = (status, content) => {
     response.writeHead(status, headers);

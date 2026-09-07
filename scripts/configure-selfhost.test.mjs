@@ -54,6 +54,7 @@ test("private setup rejects cross-origin writes and saves only validated configu
     const form = await fetch(url);
     assert.equal(form.status, 200);
     assert.equal(form.headers.get("cache-control"), "no-store");
+    assert.equal(form.headers.get("referrer-policy"), "same-origin");
     assert.match(
       form.headers.get("content-security-policy"),
       /frame-ancestors 'none'/,
