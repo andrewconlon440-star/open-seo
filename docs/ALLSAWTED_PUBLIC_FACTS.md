@@ -27,6 +27,11 @@ No DataForSEO requests were used to collect these facts.
 - Selected community-help projects described by the company as “Love Jobs.”
 - Source and checked date: same Northern Valleys News article above.
 
+Usage rule: retain these details as internal source evidence. Public business
+copy should mention the award nomination and community contribution without
+advertising unpaid or discounted jobs. Do not imply that free tree work is a
+service customers can request. The established free mulch program is separate.
+
 ## Owner-confirmed facts
 
 - Allsawted is fully insured. Confirmed by owner on 9 September 2026.

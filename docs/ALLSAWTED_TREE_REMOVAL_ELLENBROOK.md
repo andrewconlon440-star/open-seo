@@ -62,7 +62,7 @@ Allsawted is a fully insured local family business with more than 15 years of ex
 
 Recent customers have highlighted the team's communication, approachable manner, work quality and clean finish. Read the full reviews on Google or contact Allsawted to discuss your property.
 
-Allsawted was also nominated for the Business for Good Award in the 2026 WA Community Achievement Awards. The nomination recognised practical community support including assistance after storm damage, the free mulch program and ongoing support for the Ellenbrook Community Pantry.
+Allsawted was also nominated for the Business for Good Award in the 2026 WA Community Achievement Awards, recognising the business's contribution to local communities.
 
 **Button:** Read Our Google Reviews
 

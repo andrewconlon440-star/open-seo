@@ -290,10 +290,8 @@ Publish this independently sourced recognition paragraph on the homepage, About
 page and relevant local pages:
 
 > Allsawted was nominated for the Business for Good Award in the 2026 WA
-> Community Achievement Awards. The nomination recognised the team's practical
-> support for people and organisations in the community, including assistance
-> after storm damage, the free mulch program and ongoing support for the
-> Ellenbrook Community Pantry.
+> Community Achievement Awards, recognising the business's contribution to local
+> communities.
 
 Link “Business for Good Award” to the Northern Valleys News article. Do not call
 this a Business of the Year award or imply that Allsawted won the award.
@@ -311,11 +309,12 @@ Collect these facts once, then reuse the verified wording consistently:
 
 Do not infer any of these from competitor websites.
 
-## Verified community and recognition content
+## Internal community and recognition source notes
 
 Independent source: Northern Valleys News, 2 September 2026.
 
-Verified facts suitable for website copy:
+These facts are retained for internal accuracy. Do not publish the detailed free,
+unpaid or discounted work as a general business offer:
 
 - Nominated for the Business for Good Award in the 2026 WA Community
   Achievement Awards.
@@ -335,9 +334,7 @@ Recommended short homepage copy:
 
 > Allsawted's work extends beyond paid tree services. In 2026 the business was
 > nominated for the Business for Good Award in the WA Community Achievement
-> Awards, recognising practical support for local people and organisations. That
-> work includes the free mulch program, assistance after storm damage and ongoing
-> support for the Ellenbrook Community Pantry.
+> Awards, recognising its contribution to local communities.
 
 Recommended button: `Read the nomination story`
 
@@ -354,6 +351,11 @@ before publication:
 
 Treat Facebook descriptions as business-provided claims. Use the independent
 news article for the award and community-work claims wherever possible.
+
+Commercial positioning rule: use the award as trust evidence, not as an offer of
+free services. Do not add a “request community help,” free-work or charity-job
+call to action. The existing free mulch program can remain promoted on its own
+page because it is an established public offer.
 
 ## Completed-job case-study template
 
