@@ -286,6 +286,18 @@ Publish this verified customer-proof paragraph where appropriate:
 > approachable manner, work quality and clean finish. Read the original reviews
 > on Google.
 
+Publish this independently sourced recognition paragraph on the homepage, About
+page and relevant local pages:
+
+> Allsawted was nominated for the Business for Good Award in the 2026 WA
+> Community Achievement Awards. The nomination recognised the team's practical
+> support for people and organisations in the community, including assistance
+> after storm damage, the free mulch program and ongoing support for the
+> Ellenbrook Community Pantry.
+
+Link “Business for Good Award” to the Northern Valleys News article. Do not call
+this a Business of the Year award or imply that Allsawted won the award.
+
 Collect these facts once, then reuse the verified wording consistently:
 
 - Fully insured status: confirmed by owner on 9 September 2026
@@ -298,6 +310,50 @@ Collect these facts once, then reuse the verified wording consistently:
 - Waste removal, mulch and clean-up inclusions: [OWNER TO CONFIRM]
 
 Do not infer any of these from competitor websites.
+
+## Verified community and recognition content
+
+Independent source: Northern Valleys News, 2 September 2026.
+
+Verified facts suitable for website copy:
+
+- Nominated for the Business for Good Award in the 2026 WA Community
+  Achievement Awards.
+- Ongoing supporter of the Ellenbrook Community Pantry.
+- Support reported by the newspaper included food donations, shelving,
+  registration costs and professional media or advertising assistance.
+- Operates a free mulch program for households, rural properties and community
+  organisations.
+- Provided unpaid practical assistance after fallen trees blocked a disabled
+  Chittering resident's driveway, then assisted a neighbouring property.
+- Undertakes selected community-help jobs referred to by the business as “Love
+  Jobs.”
+
+Recommended homepage heading: `Community work recognised across WA`
+
+Recommended short homepage copy:
+
+> Allsawted's work extends beyond paid tree services. In 2026 the business was
+> nominated for the Business for Good Award in the WA Community Achievement
+> Awards, recognising practical support for local people and organisations. That
+> work includes the free mulch program, assistance after storm damage and ongoing
+> support for the Ellenbrook Community Pantry.
+
+Recommended button: `Read the nomination story`
+
+Recommended link:
+`https://nvnews.com.au/community-spirit-earns-allsawted-award-nomination/`
+
+Facebook-derived case-study leads that need original photos and job details
+before publication:
+
+- Tight-access tree work in Brabham.
+- Large gum-tree work in Ellenbrook.
+- Storm-damage work in Joondalup.
+- Bullsbrook shed project already referenced on the website.
+
+Treat Facebook descriptions as business-provided claims. Use the independent
+news article for the award and community-work claims wherever possible.
 
 ## Completed-job case-study template
 

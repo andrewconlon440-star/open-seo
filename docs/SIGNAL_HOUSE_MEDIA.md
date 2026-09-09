@@ -28,6 +28,11 @@ Its Google Business Profile showed a 5.0 rating from 39 reviews when checked on
 8 September 2026. Use the rating and review count with that checked date rather
 than making absolute customer-satisfaction claims.
 
+Independent recognition: Northern Valleys News reported on 2 September 2026 that
+Allsawted was nominated for the Business for Good Award in the 2026 WA Community
+Achievement Awards. Use that exact award name; do not describe it as a Business
+of the Year nomination. The source is recorded in `ALLSAWTED_PUBLIC_FACTS.md`.
+
 ## Low-data operating mode
 
 Use this mode by default for Signal House Media and AllSawted work:
