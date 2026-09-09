@@ -3,7 +3,8 @@
 Prepared for staged publishing without paid DataForSEO calls. The separate
 `ALLSAWTED_TREE_REMOVAL_ELLENBROOK.md` file contains the completed first page.
 
-Only verified facts are written as facts. Text in square brackets requires owner
+Only verified facts are written as facts. The owner confirmed on 9 September 2026
+that Allsawted is fully insured. Text in square brackets requires owner
 confirmation before publication.
 
 ## Publishing order
@@ -28,9 +29,9 @@ confirmation before publication.
 # Stump Grinding in Ellenbrook
 
 An unwanted stump can block mowing, paving, building work and new landscaping.
-Allsawted Tree Services provides stump grinding in Ellenbrook and Perth's north
-east using modern equipment to remove the obstruction and prepare the area for
-its next use.
+Allsawted Tree Services is a fully insured local family business providing stump
+grinding in Ellenbrook and Perth's north east. We use modern equipment to remove
+the obstruction and prepare the area for its next use.
 
 The size of the stump is only part of the job. Surface roots, nearby walls,
 services, garden beds and access for machinery can all affect the approach. Send
@@ -83,8 +84,9 @@ related services. Tree removal and stump work can be discussed in the same quote
 # Tree Pruning in Ellenbrook
 
 Tree growth can affect roofs, gutters, fences, gardens and usable space around a
-property. Allsawted provides tree pruning and shaping in Ellenbrook, with each job
-assessed according to the tree, its surroundings, access and the result required.
+property. Allsawted is fully insured and provides tree pruning and shaping in
+Ellenbrook, with each job assessed according to the tree, its surroundings,
+access and the result required.
 
 ## Pruning for the property and the tree
 
@@ -128,8 +130,8 @@ photo showing access from the street.
 
 Palms can become difficult to maintain when they outgrow their position, drop
 material around a property or interfere with planned landscaping and building
-work. Allsawted can assess palm pruning or removal in Ellenbrook and discuss stump
-grinding where the remaining base also needs attention.
+work. Fully insured Allsawted can assess palm pruning or removal in Ellenbrook and
+discuss stump grinding where the remaining base also needs attention.
 
 ## Planning palm work
 
@@ -165,8 +167,8 @@ before the next step is arranged.
 # Storm Damage Tree Work in Ellenbrook
 
 Storms can leave broken branches, unstable material and blocked areas around a
-property. Allsawted assists with storm-damage prevention, tree work and making
-affected areas safe in Ellenbrook and Perth's north east.
+property. Fully insured Allsawted assists with storm-damage prevention, tree work
+and making affected areas safe in Ellenbrook and Perth's north east.
 
 ## What to do first
 
@@ -272,14 +274,22 @@ near-duplicate doorway pages.
 
 Publish the verified opening paragraph now:
 
-> Allsawted is a local family business with more than 15 years of experience.
-> Every job is considered individually, including the tree or stump condition,
-> nearby structures, available access and the result required. Our project photos
-> show the team and equipment used across real tree-work sites.
+> Allsawted is a fully insured local family business with more than 15 years of
+> experience. Every job is considered individually, including the tree or stump
+> condition, nearby structures, available access and the result required. Our
+> project photos show the team and equipment used across real tree-work sites.
+
+Publish this verified customer-proof paragraph where appropriate:
+
+> Allsawted held a 5.0 out of 5 Google rating from 39 reviews when checked on
+> 8 September 2026. Recent reviews highlight the team's communication,
+> approachable manner, work quality and clean finish. Read the original reviews
+> on Google.
 
 Collect these facts once, then reuse the verified wording consistently:
 
-- Public liability insurer and cover amount: [OWNER TO CONFIRM]
+- Fully insured status: confirmed by owner on 9 September 2026
+- Insurer, policy types and cover amounts: [OWNER TO CONFIRM]
 - Workers compensation status: [OWNER TO CONFIRM]
 - Arboriculture qualifications held and by whom: [OWNER TO CONFIRM]
 - Industry memberships or licences: [OWNER TO CONFIRM]

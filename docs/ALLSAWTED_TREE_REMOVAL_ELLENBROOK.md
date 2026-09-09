@@ -15,7 +15,7 @@ This is the publishing draft for a new GoDaddy service page. It uses only facts 
 
 # Tree Removal in Ellenbrook
 
-Need an unwanted, damaged or difficult tree assessed at your Ellenbrook property? Allsawted Tree Services provides practical tree removal and tree-care services for homes, property managers and businesses across Ellenbrook and Perth's north east.
+Need an unwanted, damaged or difficult tree assessed at your Ellenbrook property? Allsawted Tree Services is a fully insured local family business providing practical tree removal and tree-care services for homes, property managers and businesses across Ellenbrook and Perth's north east.
 
 Every property is different. Tree size, condition, access, nearby buildings and the result you want all affect the right approach. Send us photos, your suburb and details of the job so we can understand the site and arrange a clear, itemised quote.
 
@@ -58,7 +58,7 @@ Tell us whether stump grinding is required when requesting the tree-removal quot
 
 ## Local tree services backed by customer feedback
 
-Allsawted is a local family business with more than 15 years of experience. Customers have rated Allsawted 5.0 out of 5 on Google from 39 reviews, checked on 8 September 2026.
+Allsawted is a fully insured local family business with more than 15 years of experience. Customers have rated Allsawted 5.0 out of 5 on Google from 39 reviews, checked on 8 September 2026.
 
 Recent customers have highlighted the team's communication, approachable manner, work quality and clean finish. Read the full reviews on Google or contact Allsawted to discuss your property.
 
@@ -109,5 +109,6 @@ Yes. Allsawted's services include tree removal, pruning and shaping, stump grind
 - Add at least three real Allsawted job photos with specific image descriptions.
 - Link to Tree Services, Stump Grinding and Request a Quote.
 - Use one H1 and H2 headings for the main sections.
-- Do not add qualification, certification, insurance or emergency-response claims until the owner has verified them.
+- Fully insured status was confirmed by the owner on 9 September 2026. Do not publish an insurer, policy type or cover amount until those details are verified.
+- Do not add qualification, certification or emergency-response claims until the owner has verified them.
 - Submit the published URL through Google Search Console when that connection is available.

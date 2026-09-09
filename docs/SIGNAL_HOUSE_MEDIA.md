@@ -23,6 +23,11 @@ the project's research market. Confirm the canonical website before entering it;
 do not infer a domain from the business name. Perth-specific rank tracking is a
 separate configuration from the country-level research market.
 
+Owner-confirmed business facts for AllSawted: the business is fully insured.
+Its Google Business Profile showed a 5.0 rating from 39 reviews when checked on
+8 September 2026. Use the rating and review count with that checked date rather
+than making absolute customer-satisfaction claims.
+
 ## Low-data operating mode
 
 Use this mode by default for Signal House Media and AllSawted work:
