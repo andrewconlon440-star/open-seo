@@ -23,6 +23,28 @@ the project's research market. Confirm the canonical website before entering it;
 do not infer a domain from the business name. Perth-specific rank tracking is a
 separate configuration from the country-level research market.
 
+## Low-data operating mode
+
+Use this mode by default for Signal House Media and AllSawted work:
+
+- Make no billable DataForSEO request until its estimated cost and scope have
+  been shown to the owner and explicitly approved.
+- Prefer saved research, cached results, local crawls, Google Search Console and
+  free public sources before buying new data.
+- Draft copy and implementation plans locally, then batch website edits into one
+  publishing pass and one verification pass.
+- Check Codex usage before a long browser session. If the rolling five-hour
+  window is already 70% used, prepare offline work and leave non-urgent browser
+  publishing until the allowance resets.
+- Reuse existing tabs and page state. Avoid repeated full-page snapshots, broad
+  repository searches and duplicate audits.
+- Use the smallest useful rank sample: priority service, priority suburb and one
+  device. Expand only when the first result justifies the cost.
+- Record purchased research in the project research log so another workflow does
+  not buy the same result again.
+
+These are permanent project defaults unless the owner asks to change them.
+
 ## Delivery stages
 
 1. Verify local build, Cloudflare deployment and Access sign-in. Configure the
