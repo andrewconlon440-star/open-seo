@@ -301,15 +301,16 @@ Publish this verified customer-proof paragraph where appropriate:
 > approachable manner, work quality and clean finish. Read the original reviews
 > on Google.
 
-Publish this independently sourced recognition paragraph on the homepage, About
-page and relevant local pages:
+Publish this recognition paragraph on the homepage, About page and relevant
+local pages:
 
-> Allsawted was nominated for the Business for Good Award in the 2026 WA
-> Community Achievement Awards, recognising the business's contribution to local
-> communities.
+> Allsawted was named a semi-finalist in the Business for Good Award in the 2026
+> 7NEWS Western Australian Community Achievement Awards, recognising the
+> business's contribution to local communities.
 
-Link “Business for Good Award” to the Northern Valleys News article. Do not call
-this a Business of the Year award or imply that Allsawted won the award.
+The Northern Valleys News article confirms the nomination. Allsawted's Facebook
+post checked on 10 September 2026 confirms the later semi-finalist result. Do not
+call this a Business of the Year award or imply that Allsawted won the award.
 
 Collect these facts once, then reuse the verified wording consistently:
 
@@ -327,6 +328,9 @@ Do not infer any of these from competitor websites.
 ## Internal community and recognition source notes
 
 Independent source: Northern Valleys News, 2 September 2026.
+Business source: Allsawted Facebook post, checked 10 September 2026, announcing
+the 2026 Business for Good Award semi-finalist result. The matching post image is
+stored at `docs/assets/allsawted-semi-finalist-2026.jpg`.
 
 These facts are retained for internal accuracy. Do not publish the detailed free,
 unpaid or discounted work as a general business offer:
@@ -348,8 +352,9 @@ Recommended homepage heading: `Community work recognised across WA`
 Recommended short homepage copy:
 
 > Allsawted's work extends beyond paid tree services. In 2026 the business was
-> nominated for the Business for Good Award in the WA Community Achievement
-> Awards, recognising its contribution to local communities.
+> named a semi-finalist in the 7NEWS Western Australian Community Achievement
+> Awards for the Business for Good Award, recognising its contribution to local
+> communities.
 
 Recommended button: `Read the nomination story`
 
