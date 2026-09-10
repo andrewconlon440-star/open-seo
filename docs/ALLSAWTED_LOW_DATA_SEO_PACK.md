@@ -1,5 +1,20 @@
 # Allsawted low-data SEO publishing pack
 
+## Publication record — 10 September 2026
+
+Published and verified live without paid DataForSEO calls:
+
+- `https://allsawted.com.au/tree-removal-ellenbrook`
+- `https://allsawted.com.au/stump-grinding-ellenbrook`
+- `https://allsawted.com.au/tree-pruning-ellenbrook`
+- `https://allsawted.com.au/palm-removal-ellenbrook`
+- `https://allsawted.com.au/storm-damage-ellenbrook`
+- Homepage recognition section: `Community work recognised across WA`
+
+GoDaddy limits navigation page names to 25 characters. The published palm and
+storm page paths therefore use `/palm-removal-ellenbrook` and
+`/storm-damage-ellenbrook`; their visible headings retain the full service names.
+
 Prepared for staged publishing without paid DataForSEO calls. The separate
 `ALLSAWTED_TREE_REMOVAL_ELLENBROOK.md` file contains the completed first page.
 
