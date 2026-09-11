@@ -13,9 +13,14 @@ no external runtime dependencies.
 
 ## Publishing
 
-Deploy the contents of this directory to a static host, then attach
-`signalhousemedia.com.au` as the custom domain. Keep DNS management separate from
-the internal OpenSEO Worker deployment.
+Deployed on Cloudflare Workers Static Assets as `signal-house-media`.
+
+- Production: <https://signalhousemedia.com.au>
+- Alternate: <https://www.signalhousemedia.com.au>
+- Cloudflare fallback: <https://signal-house-media.andrewconlon440.workers.dev>
+
+Cloudflare manages the domain's DNS. The Microsoft 365 email, DKIM, SPF and
+DMARC records remain DNS-only and separate from the website Worker.
 
 ## Accuracy notes
 
