@@ -31,9 +31,8 @@ DMARC records remain DNS-only and separate from the website Worker.
 - The contact address comes from the GoDaddy Signal House Media account setup.
 - Dedicated pages cover video production, social media management, website
   design, app development, SEO and business automation in Perth.
-- The client section uses official public brand artwork where a distinct logo
-  is available. It uses restrained text treatments where no separate public
-  logo is available rather than inventing an official mark.
+- The client section uses supplied or official public brand artwork for each
+  listed client.
 - The Allsawted selected work page describes delivered work and labels the
   client's rating and review count as existing client evidence.
 - The production positioning reflects the owner's stated use of DJI drones and

@@ -228,7 +228,6 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .clients-heading > p { max-width: 510px; margin: 0 0 .7rem auto; color: rgba(255,255,255,.58); font-size: 1rem; }
 .client-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px; max-width: var(--max); margin: 0 auto; overflow: hidden; border: 1px solid rgba(255,255,255,.12); border-radius: .8rem; background: rgba(255,255,255,.12); }
 .client-card { position: relative; display: flex; flex-direction: column; grid-column: span 2; min-height: 390px; padding: 2rem; color: var(--white); text-decoration: none; background: #15130f; transition: background .25s ease, transform .25s ease; }
-.client-card:nth-child(4), .client-card:nth-child(5) { grid-column: span 3; }
 a.client-card:hover { z-index: 1; background: #201c14; transform: translateY(-3px); }
 .client-card-featured { background: linear-gradient(145deg, #1d1a12, #0f0e0b); }
 .client-card-building { background: linear-gradient(145deg, #17140f, #0d0c0a); }
@@ -237,12 +236,8 @@ a.client-card:hover { z-index: 1; background: #201c14; transform: translateY(-3p
 .client-logo-shell img { display: block; width: 100%; height: 100%; object-fit: contain; object-position: left center; }
 .client-logo-shell:not(.client-logo-wide) img[src*="allsawted"] { width: 78px; border-radius: 50%; }
 .client-logo-wide { width: min(100%, 260px); }
-.client-logo-wordmark { gap: .75rem; color: var(--white); }
-.client-logo-wordmark strong { font-size: .76rem; line-height: 1.1; letter-spacing: .04em; text-transform: uppercase; }
-.pantry-symbol { display: grid; flex: 0 0 auto; place-items: center; width: 52px; height: 52px; border-radius: 50%; color: #132f24; background: #e9d88b; font-family: Georgia, serif; font-size: .72rem; font-weight: 800; }
-.invoice-wordmark { display: block; padding: 1rem; font-family: "Courier New", monospace; background: #f1eadc; color: #191713; transform: rotate(-.5deg); }
-.invoice-wordmark strong { display: block; font-size: .93rem; text-transform: none; letter-spacing: -.04em; }
-.invoice-wordmark span { display: block; margin-top: .35rem; font-size: .48rem; letter-spacing: .02em; }
+.client-logo-light { background: #fff; }
+.client-logo-round img { width: 82px; border-radius: 50%; }
 .client-card > p { margin: 2.5rem 0 .7rem; color: var(--gold); font-size: .58rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
 .client-card h3 { max-width: 300px; margin: 0 0 1rem; font-size: clamp(1.5rem, 2vw, 2.1rem); line-height: 1.02; letter-spacing: -.035em; }
 .client-summary { max-width: 390px; min-height: 4.5em; color: rgba(255,255,255,.57); font-size: .76rem; line-height: 1.5; }
@@ -345,7 +340,6 @@ button.button { font: inherit; cursor: pointer; }
   .clients-heading { gap: 1.5rem; }
   .clients-heading > p { margin-left: 0; }
   .client-card { grid-column: span 3; }
-  .client-card:last-child { grid-column: span 6; }
   .process-track { grid-template-columns: repeat(2,1fr); }
   .section-heading .eyebrow, .process-intro .eyebrow { grid-column: auto; }
   .service-card { min-height: 350px; }
