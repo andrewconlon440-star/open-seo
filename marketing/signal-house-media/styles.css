@@ -178,6 +178,7 @@ a.client-card:hover { z-index: 1; background: #201c14; transform: translateY(-3p
 .client-card > p { margin: 2.5rem 0 .7rem; color: var(--gold); font-size: .58rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
 .client-card h3 { max-width: 300px; margin: 0 0 1rem; font-size: clamp(1.5rem, 2vw, 2.1rem); line-height: 1.02; letter-spacing: -.035em; }
 .client-summary { max-width: 390px; min-height: 4.5em; color: rgba(255,255,255,.57); font-size: .76rem; line-height: 1.5; }
+.client-domain { margin-top: auto; padding-top: 1.4rem; color: var(--gold); font-size: .7rem; letter-spacing: .025em; overflow-wrap: anywhere; }
 .client-card b { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,.12); color: rgba(255,255,255,.78); font-size: .62rem; letter-spacing: .09em; text-transform: uppercase; }
 .client-card b i { color: var(--gold); font-style: normal; font-size: 1rem; }
 .clients-note { max-width: var(--max); margin: 1rem auto 0; color: rgba(255,255,255,.35); font-size: .64rem; }
