@@ -40,3 +40,28 @@ if (reducedMotion || !('IntersectionObserver' in window)) {
 
 const year = document.querySelector('[data-year]');
 if (year) year.textContent = new Date().getFullYear();
+
+const copyEmailButton = document.querySelector('[data-copy-email]');
+const copyStatus = document.querySelector('[data-copy-status]');
+
+copyEmailButton?.addEventListener('click', async () => {
+  const email = 'sales@signalhousemedia.com.au';
+
+  try {
+    await navigator.clipboard.writeText(email);
+    copyStatus.textContent = 'Email address copied. Paste it into any email app.';
+    copyEmailButton.firstChild.textContent = 'Email copied ';
+  } catch {
+    const temporaryField = document.createElement('textarea');
+    temporaryField.value = email;
+    temporaryField.setAttribute('readonly', '');
+    temporaryField.style.position = 'fixed';
+    temporaryField.style.opacity = '0';
+    document.body.appendChild(temporaryField);
+    temporaryField.select();
+    document.execCommand('copy');
+    temporaryField.remove();
+    copyStatus.textContent = 'Email address copied. Paste it into any email app.';
+    copyEmailButton.firstChild.textContent = 'Email copied ';
+  }
+});
