@@ -18,20 +18,31 @@
     <meta property="og:image" content="https://signalhousemedia.com.au/signal-house-logo-optimized.jpg" />
     <link rel="canonical" href="https://signalhousemedia.com.au/" />
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="./styles.css?v=13" />
+    <link rel="stylesheet" href="./styles.css?v=14" />
     <title>Signal House Media | Film, Social, Digital and Growth</title>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "ProfessionalService",
-        "name": "Signal House Media",
-        "url": "https://signalhousemedia.com.au/",
-        "email": "sales@signalhousemedia.com.au",
-        "areaServed": {
-          "@type": "AdministrativeArea",
-          "name": "Western Australia"
-        },
-        "description": "A Perth creative and digital agency providing filming, DJI aerial content, social media management, websites, apps, custom software, business automation and search visibility."
+        "@graph": [
+          {
+            "@type": "ProfessionalService",
+            "@id": "https://signalhousemedia.com.au/#business",
+            "name": "Signal House Media",
+            "url": "https://signalhousemedia.com.au/",
+            "email": "sales@signalhousemedia.com.au",
+            "areaServed": { "@type": "AdministrativeArea", "name": "Western Australia" },
+            "description": "A Perth creative and digital agency providing filming, DJI aerial content, social media management, websites, apps, custom software, business automation and search visibility."
+          },
+          {
+            "@type": "FAQPage",
+            "mainEntity": [
+              { "@type": "Question", "name": "What does Signal House Media actually do?", "acceptedAnswer": { "@type": "Answer", "text": "Signal House Media plans and produces film, manages social media, builds websites and apps, improves search visibility, creates campaigns and streamlines business systems." } },
+              { "@type": "Question", "name": "Do I need to know exactly what service I need?", "acceptedAnswer": { "@type": "Answer", "text": "No. Start with the business problem or missed opportunity and Signal House Media will help identify the smallest useful next move." } },
+              { "@type": "Question", "name": "Can Signal House Media work with existing websites and systems?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Signal House Media can improve an existing setup, connect better tools, or build a purpose made solution when the gap is real." } },
+              { "@type": "Question", "name": "What equipment does Signal House Media use for drone work?", "acceptedAnswer": { "@type": "Answer", "text": "Signal House Media uses DJI camera and flight products exclusively for aerial production." } }
+            ]
+          }
+        ]
       }
     </script>
   </head>
@@ -53,6 +64,8 @@
         <a href="#how-it-works">How it works</a>
         <a href="#clients">Clients</a>
         <a href="#proof">Our work</a>
+        <a href="#about">About</a>
+        <a href="#insights">Insights</a>
         <a class="nav-cta" href="#contact">Start a conversation</a>
       </nav>
     </header>
@@ -177,7 +190,8 @@
           </p>
         </div>
         <div class="standards-grid">
-          <article class="standard-card standard-card-dark reveal">
+          <article class="standard-card standard-card-dark standard-card-aerial reveal">
+            <img src="./media/dji-aerial-production.webp" alt="Concept image of a professional camera drone filming a tree services crew from the air" loading="lazy" decoding="async" />
             <span>01 · Aerial production</span>
             <h3>DJI. Every flight.</h3>
             <p>
@@ -186,6 +200,7 @@
               for serious production work.
             </p>
             <a href="/video-production-perth/">Explore video production <b aria-hidden="true">↗</b></a>
+            <small>Aerial production concept</small>
           </article>
           <article class="standard-card standard-card-gold reveal">
             <span>02 · Software and systems</span>
@@ -235,33 +250,38 @@
       </section>
 
       <section id="proof" class="section proof-section">
-        <div class="proof-card reveal">
+        <div class="proof-card reveal" data-client-showcase>
           <div class="proof-copy">
             <p class="eyebrow dark"><span></span> Selected work</p>
-            <h2>Built alongside a real Perth service business.</h2>
-            <p>
+            <h2 data-showcase-title>Built alongside a real Perth service business.</h2>
+            <p data-showcase-description>
               Allsawted Tree Services is one of our Perth clients. The work is practical: clearer
               service pages, stronger local relevance, verified customer proof and improvements
               published to the live site.
             </p>
             <div class="proof-facts">
-              <div><strong>5.0 / 5</strong><span>Google rating when checked</span></div>
-              <div><strong>39</strong><span>Google reviews on 8 Sep 2026</span></div>
-              <div><strong>5</strong><span>focused Ellenbrook service pages</span></div>
+              <div><strong data-showcase-fact-value="0">5.0 / 5</strong><span data-showcase-fact-label="0">Google rating when checked</span></div>
+              <div><strong data-showcase-fact-value="1">39</strong><span data-showcase-fact-label="1">Google reviews on 8 Sep 2026</span></div>
+              <div><strong data-showcase-fact-value="2">5</strong><span data-showcase-fact-label="2">focused Ellenbrook service pages</span></div>
             </div>
             <div class="proof-actions">
-              <a class="button button-case" href="/work/allsawted/">Read the work story <span aria-hidden="true">↗</span></a>
-              <a class="text-link dark-link" href="https://allsawted.com.au/" target="_blank" rel="noopener">Visit the client site <span aria-hidden="true">↗</span></a>
+              <a class="button button-case" data-showcase-story href="/work/allsawted/">Read the work story <span aria-hidden="true">↗</span></a>
+              <a class="text-link dark-link" data-showcase-site href="https://allsawted.com.au/" target="_blank" rel="noopener">Visit the client site <span aria-hidden="true">↗</span></a>
+            </div>
+            <div class="showcase-controls" aria-label="Browse selected client work">
+              <button type="button" data-showcase-previous aria-label="Previous client">←</button>
+              <span data-showcase-count>01 / 06</span>
+              <button type="button" data-showcase-next aria-label="Next client">→</button>
             </div>
           </div>
-          <div class="proof-graphic" aria-label="Allsawted delivery summary">
+          <div class="proof-graphic" data-showcase-graphic aria-label="Allsawted delivery summary">
             <div class="mini-window">
-              <div class="mini-top"><i></i><i></i><i></i><span>Client signal / Allsawted</span></div>
+              <div class="mini-top"><i></i><i></i><i></i><span data-showcase-label>Client signal / Allsawted</span></div>
               <div class="mini-body">
-                <img class="proof-client-logo" src="./clients/allsawted.png" alt="Allsawted Tree Services" />
-                <p>LOCAL VISIBILITY</p>
-                <h3>Evidence turned into action.</h3>
-                <ul>
+                <img class="proof-client-logo" data-showcase-logo src="./clients/allsawted.png" alt="Allsawted Tree Services logo" />
+                <p data-showcase-category>LOCAL VISIBILITY</p>
+                <h3 data-showcase-heading>Evidence turned into action.</h3>
+                <ul data-showcase-list>
                   <li><span>✓</span> Service pages published</li>
                   <li><span>✓</span> Review proof clarified</li>
                   <li><span>✓</span> Community recognition verified</li>
@@ -271,7 +291,67 @@
             </div>
           </div>
         </div>
-        <p class="proof-note">Rating and review count are a dated observation, not a performance claim by Signal House Media.</p>
+        <p class="proof-note" data-showcase-note>Rating and review count are a dated observation, not a performance claim by Signal House Media.</p>
+      </section>
+
+      <section id="about" class="section about-section" aria-labelledby="about-title">
+        <div class="about-lead reveal">
+          <p class="eyebrow dark"><span></span> About Signal House</p>
+          <h2 id="about-title">Creative thinking with the ability to finish the job.</h2>
+        </div>
+        <div class="about-copy reveal">
+          <p>Signal House Media is a Perth creative, digital and business improvement company. We bring filming, social media, websites, apps, search and automation into one practical team.</p>
+          <p>We choose professional tools because the finished work matters. Our aerial production uses DJI products exclusively. Our software approach is just as direct: use the best available product when it fits, and create the missing solution when it does not.</p>
+          <a class="text-link dark-link" href="#contact">Tell us what needs to work better <span aria-hidden="true">↗</span></a>
+        </div>
+      </section>
+
+      <section class="section proof-principles" aria-labelledby="proof-principles-title">
+        <div class="principles-heading reveal">
+          <p class="eyebrow"><span></span> Proof before promotion</p>
+          <h2 id="proof-principles-title">What you can expect to see.</h2>
+        </div>
+        <div class="principles-grid">
+          <article class="reveal"><span>01</span><h3>Real businesses</h3><p>Named clients, linked websites and work stories you can inspect for yourself.</p></article>
+          <article class="reveal"><span>02</span><h3>Clear responsibility</h3><p>Client strengths and public facts stay separate from work completed by Signal House Media.</p></article>
+          <article class="reveal"><span>03</span><h3>Verified outcomes</h3><p>Results appear only when the evidence is available and the measurement is clear.</p></article>
+        </div>
+      </section>
+
+      <section class="section faq-section" aria-labelledby="faq-title">
+        <div class="faq-heading reveal">
+          <p class="eyebrow dark"><span></span> Common questions</p>
+          <h2 id="faq-title">A clear start.<br /><em>No mystery process.</em></h2>
+        </div>
+        <div class="faq-list reveal">
+          <details><summary>What does Signal House Media actually do?</summary><p>We plan and produce film, manage social media, build websites and apps, improve search visibility, create campaigns and streamline business systems.</p></details>
+          <details><summary>Do I need to know exactly what service I need?</summary><p>No. Start with the business problem or missed opportunity. We will help identify the smallest useful next move.</p></details>
+          <details><summary>Can you work with our existing website and systems?</summary><p>Yes. We can improve what already works, connect better tools, or build a purpose made solution when the gap is real.</p></details>
+          <details><summary>Do you only work with Perth businesses?</summary><p>We are based in Perth and work especially well with Western Australian service businesses. Digital and software projects can also be delivered beyond Perth.</p></details>
+          <details><summary>What equipment do you use for drone work?</summary><p>Our aerial production uses DJI camera and flight products exclusively.</p></details>
+        </div>
+      </section>
+
+      <section id="insights" class="section insights-section" aria-labelledby="insights-title">
+        <div class="insights-heading reveal">
+          <p class="eyebrow"><span></span> Useful thinking</p>
+          <h2 id="insights-title">Advice you can use before you call us.</h2>
+          <p>Good work starts with a clear decision. These short guides explain how we think about three common business problems.</p>
+        </div>
+        <div class="insights-grid">
+          <details class="insight-card reveal">
+            <summary><span>Websites</span><h3>What a Perth service business website needs</h3><b>Read guide</b></summary>
+            <div><p>A strong service website answers four questions quickly: what do you do, where do you do it, why should someone trust you, and what should they do next? Put the clearest answer near the top of every important page.</p><p>Create one useful page for each genuine service and location combination. Support those pages with real photos, specific examples, customer evidence and a direct enquiry path. Remove claims that cannot be checked.</p><p>Measure calls and qualified enquiries, then improve the pages people actually use. Traffic alone does not tell you whether the website is helping the business.</p></div>
+          </details>
+          <details class="insight-card reveal">
+            <summary><span>Systems</span><h3>When to buy software and when to build it</h3><b>Read guide</b></summary>
+            <div><p>Buy a proven product when it handles the important workflow, has sensible support and can exchange information with the systems you already use. A good fit saves time immediately.</p><p>Consider custom software when staff repeatedly work around the product, important information is trapped between tools, or the process gives your business a real advantage. Map the process before writing any code.</p><p>Start with the smallest version that removes a real bottleneck. Measure the time saved and the errors removed before adding more features.</p></div>
+          </details>
+          <details class="insight-card reveal">
+            <summary><span>Content</span><h3>How to plan content that earns attention</h3><b>Read guide</b></summary>
+            <div><p>Begin with the questions customers ask before they choose. Turn those questions into useful stories, demonstrations and explanations instead of filling a calendar with disconnected posts.</p><p>Film real work whenever possible. One well planned production day can create a main story, service clips, customer education, still images and short social edits.</p><p>Publish with a purpose. Each piece should help someone understand, trust, remember or act. Watch the response and use it to choose the next story.</p></div>
+          </details>
+        </div>
       </section>
 
       <section id="clients" class="section clients-section" aria-labelledby="clients-title">
@@ -377,10 +457,14 @@
         <div class="cta-glow" aria-hidden="true"></div>
         <p class="eyebrow"><span></span> Start with a conversation</p>
         <h2>What does your business<br /><em>need to do next?</em></h2>
-        <p>Tell us what you are building, promoting or trying to change. Choose your email service below and your enquiry will open ready to send.</p>
-        <div class="contact-actions" aria-label="Contact Signal House Media">
-          <a class="button button-light" href="https://outlook.office.com/mail/deeplink/compose?to=sales%40signalhousemedia.com.au&amp;subject=Signal%20House%20Media%20enquiry" target="_blank" rel="noopener">Open in Outlook <span aria-hidden="true">↗</span></a>
-          <a class="button button-outline-light" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sales%40signalhousemedia.com.au&amp;su=Signal%20House%20Media%20enquiry" target="_blank" rel="noopener">Open in Gmail <span aria-hidden="true">↗</span></a>
+        <p>Tell us what you are building, promoting or trying to change. We will turn it into a useful first conversation.</p>
+        <form class="enquiry-builder" data-enquiry-form>
+          <div><label for="enquiry-name">Your name</label><input id="enquiry-name" name="name" autocomplete="name" required /></div>
+          <div><label for="enquiry-business">Business</label><input id="enquiry-business" name="business" autocomplete="organization" required /></div>
+          <div class="field-wide"><label for="enquiry-need">What needs to work better?</label><textarea id="enquiry-need" name="need" rows="4" required></textarea></div>
+          <div class="field-wide enquiry-submit"><button class="button button-light" type="submit">Prepare my enquiry <span aria-hidden="true">↗</span></button><span>Your email app will open with these details ready to send.</span></div>
+        </form>
+        <div class="contact-actions" aria-label="Other ways to contact Signal House Media">
           <button class="button button-outline-light" type="button" data-copy-email>Copy email address <span aria-hidden="true">＋</span></button>
         </div>
         <p class="contact-address">
