@@ -33,7 +33,7 @@ DMARC records remain DNS-only and separate from the website Worker.
   design, app development, SEO and business automation in Perth.
 - The client section uses supplied or official public brand artwork for each
   listed client.
-- The Allsawted selected work page describes delivered work and labels the
-  client's rating and review count as existing client evidence.
+- Every listed client has a selected work page. Each page separates the
+  client's existing strengths from the focus of Signal House Media's work.
 - The production positioning reflects the owner's stated use of DJI drones and
   professional software. Drone work is described as available where suitable.

@@ -254,6 +254,8 @@ a.client-card:hover { z-index: 1; background: #201c14; transform: translateY(-3p
 .case-hero-copy > p:last-child { max-width: 760px; margin: 2rem 0 0; color: rgba(255,250,240,.7); font-size: clamp(1.05rem,1.5vw,1.3rem); }
 .case-brand-card { display: grid; gap: 0; padding: 1.25rem; border: 1px solid rgba(241,215,158,.3); border-radius: .9rem; background: rgba(255,255,255,.055); backdrop-filter: blur(18px); }
 .case-brand-card > img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: .55rem; }
+.case-brand-card-fit > img { object-fit: contain; padding: 1.2rem; background: #0c0b09; }
+.case-brand-card-light > img { background: #fff; }
 .case-brand-card > div { display: grid; grid-template-columns: 78px 1fr; gap: 1rem; padding: 1rem .3rem; border-bottom: 1px solid rgba(255,255,255,.12); }
 .case-brand-card > div:last-child { border-bottom: 0; }
 .case-brand-card span { color: var(--gold); font-size: .62rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
@@ -278,6 +280,7 @@ a.client-card:hover { z-index: 1; background: #201c14; transform: translateY(-3p
 .case-metrics { display: grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); }
 .case-metrics > div { min-height: 210px; display: flex; flex-direction: column; justify-content: flex-end; padding: 1.5rem; background: var(--paper); }
 .case-metrics strong { color: #217f78; font-family: var(--serif); font-size: clamp(2.8rem,5vw,5.5rem); font-weight: 400; line-height: .9; }
+.case-metrics strong.metric-word { font-size: clamp(1.65rem,3vw,3.4rem); overflow-wrap: anywhere; }
 .case-metrics span { margin-top: 1rem; font-size: .68rem; font-weight: 750; text-transform: uppercase; letter-spacing: .08em; }
 .case-metrics small { grid-column: 1 / -1; padding: .8rem 1rem; color: rgba(7,27,35,.48); background: var(--white); }
 
