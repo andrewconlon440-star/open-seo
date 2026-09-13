@@ -227,17 +227,17 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .clients-heading h2 em { color: var(--gold); font-family: Georgia, serif; font-weight: 400; }
 .clients-heading > p { max-width: 510px; margin: 0 0 .7rem auto; color: rgba(255,255,255,.58); font-size: 1rem; }
 .client-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px; max-width: var(--max); margin: 0 auto; overflow: hidden; border: 1px solid rgba(255,255,255,.12); border-radius: .8rem; background: rgba(255,255,255,.12); }
-.client-card { position: relative; display: flex; flex-direction: column; grid-column: span 2; min-height: 390px; padding: 2rem; color: var(--white); text-decoration: none; background: #15130f; transition: background .25s ease, transform .25s ease; }
+.client-card { position: relative; display: flex; flex-direction: column; grid-column: span 2; min-height: 470px; padding: 2rem; color: var(--white); text-decoration: none; background: #15130f; transition: background .25s ease, transform .25s ease; }
 a.client-card:hover { z-index: 1; background: #201c14; transform: translateY(-3px); }
 .client-card-featured { background: linear-gradient(145deg, #1d1a12, #0f0e0b); }
 .client-card-building { background: linear-gradient(145deg, #17140f, #0d0c0a); }
 .client-index { position: absolute; top: 1.7rem; right: 1.8rem; color: rgba(255,255,255,.26); font-size: .6rem; letter-spacing: .13em; }
-.client-logo-shell { display: flex; align-items: center; justify-content: flex-start; width: min(100%, 220px); height: 96px; margin-bottom: auto; padding: .65rem; border: 1px solid rgba(255,255,255,.1); border-radius: .55rem; background: rgba(255,255,255,.045); overflow: hidden; }
-.client-logo-shell img { display: block; width: 100%; height: 100%; object-fit: contain; object-position: left center; }
-.client-logo-shell:not(.client-logo-wide) img[src*="allsawted"] { width: 78px; border-radius: 50%; }
-.client-logo-wide { width: min(100%, 260px); }
+.client-logo-shell { display: flex; align-items: center; justify-content: center; width: 100%; height: 170px; margin-bottom: auto; padding: 1.15rem; border: 1px solid rgba(255,255,255,.1); border-radius: .65rem; background: rgba(255,255,255,.045); overflow: hidden; }
+.client-logo-shell img { display: block; width: 100%; height: 100%; object-fit: contain; object-position: center; filter: drop-shadow(0 14px 24px rgba(0,0,0,.24)); }
+.client-logo-shell:not(.client-logo-wide) img[src*="allsawted"] { border-radius: 50%; }
+.client-logo-wide { width: 100%; }
 .client-logo-light { background: #fff; }
-.client-logo-round img { width: 82px; border-radius: 50%; }
+.client-logo-round img { width: 138px; border-radius: 50%; }
 .client-card > p { margin: 2.5rem 0 .7rem; color: var(--gold); font-size: .58rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
 .client-card h3 { max-width: 300px; margin: 0 0 1rem; font-size: clamp(1.5rem, 2vw, 2.1rem); line-height: 1.02; letter-spacing: -.035em; }
 .client-summary { max-width: 390px; min-height: 4.5em; color: rgba(255,255,255,.57); font-size: .76rem; line-height: 1.5; }
@@ -388,7 +388,8 @@ button.button { font: inherit; cursor: pointer; }
   .proof-graphic { padding: 2.5rem 1rem; }
   .proof-actions { align-items: flex-start; flex-direction: column; }
   .client-grid { display: block; background: transparent; }
-  .client-card { min-height: 340px; border-bottom: 1px solid rgba(255,255,255,.12); }
+  .client-card { min-height: 430px; border-bottom: 1px solid rgba(255,255,255,.12); }
+  .client-logo-shell { height: 180px; }
   .client-card:last-child { border-bottom: 0; }
   .contact-actions { flex-direction: column; align-items: stretch; }
   .contact-actions .button { justify-content: space-between; text-align: left; }
