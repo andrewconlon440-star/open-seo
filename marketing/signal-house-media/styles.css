@@ -488,3 +488,7 @@ button.button { font: inherit; cursor: pointer; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
   .reveal { opacity: 1; transform: none; }
 }
+
+.client-name-display { color: var(--gold); font-family: Georgia, serif; font-size: clamp(1.8rem, 3vw, 2.6rem); line-height: 1.15; text-align: center; }
+
+.client-card:last-child:nth-child(3n + 1) { grid-column: 1 / -1; }
