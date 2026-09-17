@@ -492,3 +492,6 @@ button.button { font: inherit; cursor: pointer; }
 .client-name-display { color: var(--gold); font-family: Georgia, serif; font-size: clamp(1.8rem, 3vw, 2.6rem); line-height: 1.15; text-align: center; }
 
 .client-card:last-child:nth-child(3n + 1) { grid-column: 1 / -1; }
+
+.client-location-links { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,.12); }
+.client-location-links a { color: var(--gold); font-size: .875rem; text-underline-offset: .25em; }
